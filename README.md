@@ -5,7 +5,7 @@ Ask anything to PDFs.
 
 ## Installation
 
-Developed using `python 3.10` on windows.
+Developed using `python 3.12.2` on windows.
 
 ```bash
 pip install -r requirements.txt
