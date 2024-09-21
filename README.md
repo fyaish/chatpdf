@@ -8,6 +8,21 @@ Ask anything to PDFs.
 Developed using `python 3.12.2` on windows.
 
 ```bash
+git clone https://github.com/fyaish/chatpdf/
+```
+
+## Create virtual env.
+
+```bash
+cd chatpdf
+```
+
+```bash
+python -m venv venv
+```
+
+
+```bash
 pip install -r requirements.txt
 ```
 
